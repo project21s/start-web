@@ -1,6 +1,11 @@
 # start-web
 Для тех, кто делает первые шаги в JS разработке
 
+### Полезные ссылки
+[Курс по HTML](https://code-basics.com/ru/languages/html)
+[Курс по CSS](https://code-basics.com/ru/languages/css)
+[Курс по JS](https://code-basics.com/ru/languages/javascript)
+
 _Задание на разработку для клуба js-community Scholl_21_
 
 Приложение - список задач
